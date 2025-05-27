@@ -16,4 +16,4 @@ To understand the dataset using statistical summaries and visualizations, helpin
 4. Visualize distributions using histograms and boxplots.
 5. Explore relationships using correlation matrix and pairplots.
 # File Included
-- `Titanic_EDA_Code_Only.ipynb`: Jupyter notebook containing complete EDA code .
+- `[Titanic_EDA_task2.ipynb]`: Jupyter notebook containing complete EDA code .
